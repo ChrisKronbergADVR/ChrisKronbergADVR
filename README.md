@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ChrisKronbergADVR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 
 - 📫 How to reach me
   -  Email: chris.kronberg@atos.net
