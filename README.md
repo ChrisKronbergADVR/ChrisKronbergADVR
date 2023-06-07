@@ -2,6 +2,7 @@
 
 - 📫 How to reach me
   -  Email: chris.kronberg@atos.net
+  -  Email: ckronberg@andovercos.com
   -  Phone: 812-521-0342
 
 <!---
