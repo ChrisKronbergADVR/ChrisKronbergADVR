@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrisKronbergADVR
 
 - 📫 How to reach me
-  -  Email: chris.kronberg@atos.net
+  -  Email: chris.kronberg@eviden.com
   -  Email: ckronberg@andovercos.com
   -  Phone: 812-521-0342
 
